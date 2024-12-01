@@ -3,4 +3,10 @@
     <string name="uilover_channel">UILover Channel</string>
     <string name="welcome_to_your_app">Welcome Back To Your App</string>
     <string name="sign_up">Sign Up</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="continue_with_google">Continue With Google</string>
+    <string name="continue_with_facebook">Continue With Facebook</string>
+    <string name="are_you_new_user_register">Are You new user. Register?</string>
 </resources>
